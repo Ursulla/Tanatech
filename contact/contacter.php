@@ -23,8 +23,8 @@ $headers .= "Content-Transfer-Encoding: 8bit \r\n";
 if(mail($to,$subject,$message,$headers))
 {
 	
-  //print "<script>document.location.href='../index.html';</script>";
-  redirect('../index.html');
+  print "<script>document.location.href='../index.html';</script>";
+  //redirect('../index.html');
 }
 else{
   echo "Erreur! Veuillez remplir les Champs Requis.";
