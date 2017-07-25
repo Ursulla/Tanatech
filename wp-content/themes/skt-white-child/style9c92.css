@@ -1,15 +1,15 @@
 /*
-Theme Name:STK white Child
-Theme URI:http://localhost/habaka/wp-content/themes/skt-white-child/
+ThemeÂ Name:STK white Child
+ThemeÂ URI:http://localhost/habaka/wp-content/themes/skt-white-child/
 Description:SKT White child is a responsive premium WordPress theme which is suitable for any type of website you want to create. So corporate, business, photography, wedding, industrial, restaurant or any sort of industry. SKT White has the ability to change the link colors. So make it suit your style you want. Comprises of easy to use sections on the homepage which make it super easy for your to manage the content on your homepage. Theme options are also one of the most easy to use and you can edit slider, and the homepage content from options. 100% responsive to the last pixel this theme is retina ready and hd ready and has ability to easily edit any part you want. Comes with default parallax slider.Default page templates, search and other standard pages readily available with this theme. Compatible with popular plugins like WooCommerce making it ecommerce/shop ready and Contact form 7.It is translation ready and can be translated for any language. Has custom header and custom background. Check out the demo at: http://sktthemesdemo.net/skt-white
 Author:Tanatech
-Author URI:http://localhost/tanatech.com
+AuthorÂ URI:http://localhost/tanatech.com
 Template:skt-white
 Version:1.0.0
 License:GNU General Public License version 3
 License URI:license.txt
 Tags:ray, white, blue, light, one-column, two-columns, right-sidebar, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, photoblogging
-Text Domain:stk-white-child
+TextÂ Domain:stk-white-child
 */
 
 *{ margin:0; padding:0;}
@@ -232,8 +232,8 @@ body.home .fixed, body.blog .fixed{position:fixed !important; top:0 !important; 
 
 .footer-nav { margin:0; padding:0;}
 .footer-nav li { display:block; padding:0;}
-.footer-nav li a { color:#8e8d8d; font:normal 12px/24px Arial, Helvetica, sans-serif; background:url(images/gry-arrow.html) no-repeat 0 3px; padding:0 0 0 20px;}
-.footer-nav li a:hover { color:#00a8ff; background:url(images/gry-arrow.html) no-repeat 0 -9px; transition: all 0.5s ease 0s; overflow:hidden;}
+.footer-nav li a { color:#8e8d8d; font:normal 12px/24px Arial, Helvetica, sans-serif; padding:0 0 0 20px;}
+.footer-nav li a:hover { color:#00a8ff; transition: all 0.5s ease 0s; overflow:hidden;}
 
 .recent-post { margin:0px; padding:0px; list-style:none;}
 .recent-post ul{ list-style:none !important;}
